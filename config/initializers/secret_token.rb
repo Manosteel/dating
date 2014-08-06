@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Dating::Application.config.secret_key_base = '5f496cfb0ea9d4f44858fed7091f70bd08f606e8c10f557d97f707e7bc0a28711446cfaf5b48d2901e4055c6ce2044589012f8cecb45d0c19504148eea1ca954'
+Pinteresting::Application.config.secret_key_base = '46f60b92265fdcbe7eb2e55a2f8a39a8ec3dd601f9c114b34eae7b77b997dd1bfa3a2047092504e98d38345dd71df0a4ead84c9289b55a35b8fca82719a49f96'
